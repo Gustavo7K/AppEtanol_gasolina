@@ -1,6 +1,6 @@
 # O Aplicativo
 
-Aplicativo android, utilizado para calcular com base nos preços inseridos se esta compensando aastecer com gasolina ou etanol e a proporção dos mesmos.
+Aplicativo android, utilizado para calcular com base nos preços inseridos se esta compensando abastecer com gasolina ou etanol e a proporção dos mesmos.
 
 Feito por: Gustavo Henrique
 
