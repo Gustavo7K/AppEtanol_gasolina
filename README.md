@@ -1,6 +1,10 @@
 # etanol_gasolina
 
-A new Flutter project.
+Aplicativo android, utilizado para calcular com base nos preços inseridos se esta compensando aastecer com gasolina ou etanol e a proporção dos mesmos.
+
+Feito por: Gustavo Henrique
+
+Email: gustavosales0704@gmail.com
 
 ## Getting Started
 
