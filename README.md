@@ -1,4 +1,4 @@
-# etanol_gasolina
+# O Aplicativo
 
 Aplicativo android, utilizado para calcular com base nos preços inseridos se esta compensando aastecer com gasolina ou etanol e a proporção dos mesmos.
 
