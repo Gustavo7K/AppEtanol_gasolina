@@ -2,7 +2,7 @@
 
 Aplicativo android, utilizado para calcular com base nos preços inseridos se esta compensando abastecer com gasolina ou etanol e a proporção dos mesmos.
 
-Feito usando a linguagem DART por: Gustavo Henrique
+Feito usando Dart e Flutter por: Gustavo Henrique
 
 Email: gustavosales0704@gmail.com
 
